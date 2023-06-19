@@ -1,6 +1,6 @@
 # **Takım İsmi**
 
-Takım Flutter 52
+Ghostly Games
 
 # Ürün İle İlgili Bilgiler
 
@@ -12,7 +12,7 @@ Takım Flutter 52
 
 ## Ürün İsmi
 
---Scrap App--
+The Underworld Journey
 
 ## Product Backlog URL
 
@@ -20,19 +20,36 @@ Takım Flutter 52
 
 ## Ürün Açıklaması
 
-Scrap App, daire sakinleri tarafından biriktirilmiş apartman ve sitelere ait kıymetli geri dönüşüm atıklarının, geri dönüştürülebilir atık toplayan firmalar tarafından toplanmasını kolaylaştırır ve apartman yönetimlerinin bir gelir kalemi olarak geri dönüşüm ödemesi almalarını sağlar. Ayrıca hurda ilanı verilebilen bu uygulamada kullanıcılar biriktirdikleri, bakır, demir, çelik, alüminyum, kağıt, cam vb hurdaların satışını ilanlar ile yapabilir. Scrap App, geri dönüştürülebilir atıkların kıymetinine önem verir, apartman ve site gibi, insanların blok halde yaşadığı mekanlarda, onların geri dönüşüm atıklarını topluca biriktirmelerini teşvik eder ve kolaylaştırır. Scrap App kağıt, metal, plastik cam vb ürünlerin geri dönüştürülmesi halinde, insanların kendisi, çevresi ve ülkesi için maddi gelir ve Dünya doğası için sürekli fayda sağlayabileceğini savunur ve geri dönüşüm sayesinde yeniden üretim ve madencilik faaliyetlerinin azaltılabileceğini ve böylece yeniden üretim kaynaklı doğaya olan zararın azaltılması gerektiği fikrini destekler ve yeniden kazanımı hedefler.
+Oyun, ana karakterin ölümüyle başlar. Ana karakter, bir olay sonucunda hayatını kaybeder ve ruhu Yeraltı dünyasına göç eder. Burada, karakterimiz yeryüzündeki ölümüne neden olan bir ruhla karşılaşır ve onunla birlikte Yeraltı dünyasının karmaşık ve tehlikeli derinliklerine doğru macera dolu bir yolculuğa çıkar.Yeraltı dünyasında, karakterimiz Yeryüzü'ne geri dönmek için bir şans yakalamıştır, ancak bunun için bazı zorlukları aşması gerekmektedir. Karakterimizin yolculuğunda, sezgilere dayalı engellerle karşılaşır. Bu sezgiler, karakterin ilerleyebilmesi, gizemleri çözebilmesi ve sonraki seviyelere geçebilmesi için toplaması gereken unsurlardır. Ana karakterimizin yanında, ona rehberlik eden ve güçlerini artıran bir hayvan totemi şeklindeki bir şaman da bulunur. Şaman, karakterin seviye atlamasına yardımcı olur, canını iyileştirir ve diğer faydalı yetenekler sağlar. Karakterimiz, şamanın yardımıyla güçlenir ve Yeraltı dünyasında ilerler. Oyun ilerledikçe, ana karakterimiz gittikçe daha güçlü hale gelir ve zorlu düşmanlarla karşılaşır. Her seviye atladıkça, karakterin sezgileri ve savaş yetenekleri gelişir, böylece daha büyük engelleri aşabilir ve Yeraltı dünyasının derinliklerinde ilerleyebilir. Son seviyede, karakterimiz onun ölümüne neden olan ruhla karşılaşır ve zorlu bir kapışmaya girer. Bu kapışma sonucunda, karakterimiz ruhu yenmeyi başarır ve onun güçlerini ele geçirir. Ancak, bu zaferin bedeli, karakterin artık Yeryüzü'ne dönememesidir.Ana karakterimiz, zaferiyle birlikte açgözlülüğe kapılarak ruhun güçlerini kullanmaya başlar ve bu durum yeryüzüyle olan bağlantısını kaybetmesine yol açar. Artık Yeryüzü'ne dönme umudu tükenmiştir ve karakter Yeraltı dünyasına hapsolmuştur. Bu, oyuncunun karakterin yeni gerçekliğine uyum sağlamasını ve Yeraltı dünyasında yaşamaya çalışmasını gerektiren bir sonuç olabilir.
+
+Oyun, ana karakterin ölümü, Yeraltı dünyasına göçü, sezgileri toplama ve savaş yeteneklerini kullanma gibi temaları içerir. Ayrıca karakterin açgözlülüğe kapılması ve sonunda Yeryüzü'nden uzaklaşması gibi dramatik bir dönüm noktası da sunar.
 
 
-- **Uygulama birincil fonksiyonu**: Apartman/site sakinlerinin geri dönüşebilir kıymetli atıkları apartman hizmetlisi tarafından düzenli olarak toplanarak, akıllı geri dönüşüm kutusunda biriktirilir, toplayıcı firma biriken atıklara ilişkin kutu doluluk oranını uygulama üzerinden görür ve satın alma teklifini apartman yönetimine uygulama ile bildirir, apartman yönetiminin teklif onayından sonra, atık satın alma işlemi gerçekleşir.
+- **Uygulama birincil fonksiyonu**: Macerayı tamamlamak ve ana karakterin Yeraltı dünyasından kaçmasını sağlamak.
 
-- **Uygulama ikincil fonksiyonu**: Kullanıcı elindeki geri dönüşebilir kıymetli maddeler için teklif almak üzere Scrap App'e girer ve ilan verir, toplayıcı firma, kullanıcının ilanına ilişkin ağırlık ve madde türü gibi bilgileri kullanıcının ilanında görür ve satın alma teklifini kullanıcıya bildirir, kullanıcının teklif onayından sonra, hurda satın alma işlemi gerçekleşir.
+Ana karakterin Yeraltı dünyasına göç etmesine neden olan ruhla olan son kapışmaya ulaşmak, bu kapışmayı kazanmak ve onun ruhuna sahip olmak.
+Ana karakterin, ruhun açgözlülüğünden etkilenmeden önce Yeryüzü'ne dönme amacını koruması ve bu amaç doğrultusunda yoluna devam etmesi.
+Sezgileri toplamak veya savaşarak kendini geliştirmek ve güçlenmek.
+Hayvan totemi şeklindeki şamanın sunduğu yardımları kullanarak seviye atlamak ve canı iyileştirmek.
+
+- **Uygulama ikincil fonksiyonu**: Karakterin büyümesi, içsel dönüşümü ve hikaye boyunca karşılaştığı yan görevlerin tamamlanması.
+
+Ana karakterin, Yeraltı dünyasında deneyimlediği olaylarla birlikte içsel bir dönüşüm geçirmesi.
+Ana karakterin, yan görevleri tamamlarken Yeraltı dünyasındaki diğer karakterlerle etkileşimde bulunması ve hikayenin daha derin yönlerini keşfetmesi.
+Ana karakterin, Yeraltı dünyasındaki çeşitli bulmacaları çözerek, gizli alanları keşfederek veya farklı zorlukları aşarak ilerlemesi.
+Ana karakterin, ruhunun gücünü kullanarak Yeraltı dünyasındaki düşmanlara karşı savaşması ve stratejik becerilerini kullanması.
+Bu şekilde bir oyun, ana karakterin hikayesini tamamlamak için birincil fonksiyon olan kaçışı gerçekleştirirken, ikincil fonksiyonlar aracılığıyla karakterin büyümesini ve hikaye dünyasını keşfetmesini sağlayabilir.
 
 ## Ürün Özellikleri
 
-- Doluluk oranı %75'in üzerinde olan apartman akıllı atık kutularının kutu doluluk oranının geri dönüşüm atık toplayıcılarına bildirilmesi.
-- Doluluk oranı %75'in üzerinde olan apartman akıllı atık kutularındaki geri dönüşüm maddelerinin satın alınmasına ilişkin, toplayıcı firmalar tarafından satın alma teklifini apartman yönetimlerine sunabilmesi ve yönetici tarafından teklifin kabul edilmesi.
-- Apartmandan bağımsız olarak biriktirilmiş bireysel geri dönüşüm maddelerinin satın alımı için toplayıcı firmalardan teklif alma ve toplayıcı çağırma hizmeti.
-- Kullanıcı, apartman yönetimi, atık toplayıcı firma ve uygulama şirketi için geliştirilmiş kullanıcı rolleri, özellikleri ve ekranları.
+-Oyuncular geniş bir Yeraltı dünyasını keşfeder ve farklı bölgelerde maceralara atılır.
+-Yeraltı dünyası çeşitli atmosferik mekanlara sahip olabilir, örneğin karanlık mağaralar, labirentler, esrarengiz tapınaklar vb.
+-Gizli alanlar ve keşfedilmeyi bekleyen sırlar oyuncuları ödüllendirir.
+-Oyuncular ilerlemek için çeşitli bulmacaları çözerler. Bu bulmacalar mantık, hafıza, dikkat veya reaksiyon gerektirir.
+-Oyun ilerledikçe bulmacaların karmaşıklığı artabilir ve oyuncuların daha ileri düşünme ve problem çözme becerilerini kullanmalarını gerektirir.
+-Zorluklar, platform atlama bölümleri, engelleri aşma görevleri veya zamanla yarışma gibi çeşitli şekillerde sunulmaktadır.
+-Ana karakter, görevleri tamamlayarak sezgi puanı kazanır ve seviye atlar.
+-Karakterin özelliklerini geliştirmek için kazanılan sezgi puanları kullanılabilir.
 
 ## Hedef Kitle
 
